@@ -6,8 +6,8 @@
     {
       "id": "Cinebinge",
       "name": "CineBinge",
-      "thumbnail": "/images/Cinebinge_thumb.jpg",
-      "backdrop": "/images/Cinebinge_backdrop.jpg",
+      "thumbnail": "/images/CineBinge_thumb.jpg",
+      "backdrop": "/images/CineBinge_backdrop.jpg",
       "notes": "HEy everybody! Welcome to CineBinge!",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@CineBingeReact" },
