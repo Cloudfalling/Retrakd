@@ -1,1 +1,29 @@
-
+{
+  "redirects": {
+    "old_reactor_id": "new_reactor_id"
+  },
+  "reactors": [
+    {
+      "id": "Cinebinge",
+      "name": "CineBinge",
+      "thumbnail": "/images/Cinebinge_thumb.jpg",
+      "backdrop": "/images/Cinebinge_backdrop.jpg",
+      "notes": "HEy everybody! Welcome to CineBinge!",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@CineBingeReact" },
+        { "type": "patreon", "url": "https://www.patreon.com/Cinebinge" }
+      ]
+    },
+    {
+      "id": "PopcornInBed",
+      "name": "Popcorn In Bed",
+      "thumbnail": "/images/PopcornInBed_thumb.jpg",
+      "backdrop": "/images/PopcornInBed_thumb_backdrop.jpg",
+      "notes": "Hey friends! Welcome to my cannel where I watch and react to tons of movies and shows that I've never seen.",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@PopcornInBed" },
+        { "type": "patreon", "url": "https://www.patreon.com/PopcornInBed" }
+      ]
+    }
+  ]
+}
