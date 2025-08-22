@@ -18,11 +18,22 @@
       "id": "PopcornInBed",
       "name": "Popcorn In Bed",
       "thumbnail": "/images/PopcornInBed_thumb.jpg",
-      "backdrop": "/images/PopcornInBed_thumb_backdrop.jpg",
+      "backdrop": "/images/PopcornInBed_backdrop.jpg",
       "notes": "Hey friends! Welcome to my cannel where I watch and react to tons of movies and shows that I've never seen.",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@PopcornInBed" },
         { "type": "patreon", "url": "https://www.patreon.com/PopcornInBed" }
+      ]
+    },
+    {
+      "id": "SpartanAndPudgey",
+      "name": "Spartan & Pudgey",
+      "thumbnail": "/images/SpartanAndPudgey_thumb.jpg",
+      "backdrop": "/images/SpartanAndPudgey_backdrop.jpg",
+      "notes": " Come for the Reactions, Stay for the banter!",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@SpartanAndPudgey" },
+        { "type": "patreon", "url": "https://www.patreon.com/SpartanAndPudgey" }
       ]
     }
   ]
