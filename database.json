@@ -7,8 +7,9 @@
       "id": "Cinebinge",
       "name": "CineBinge",
       "thumbnail": "/images/CineBinge_thumb.jpg",
+      "header": "/images/Cinebinge_header.jpg",
       "backdrop": "/images/CineBinge_backdrop.jpg",
-      "notes": "HEy everybody! Welcome to CineBinge!",
+      "notes": "Hey everybody! Welcome to CineBinge!",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@CineBingeReact" },
         { "type": "patreon", "url": "https://www.patreon.com/Cinebinge" }
@@ -18,6 +19,7 @@
       "id": "PopcornInBed",
       "name": "Popcorn In Bed",
       "thumbnail": "/images/PopcornInBed_thumb.jpg",
+      "header": "/images/PopcornInBed_header.jpg",
       "backdrop": "/images/PopcornInBed_backdrop.jpg",
       "notes": "Hey friends! Welcome to my cannel where I watch and react to tons of movies and shows that I've never seen.",
       "links": [
@@ -29,6 +31,7 @@
       "id": "SpartanAndPudgey",
       "name": "Spartan & Pudgey",
       "thumbnail": "/images/SpartanAndPudgey_thumb.jpg",
+      "header": "/images/SpartanAndPudgey_header.jpg",
       "backdrop": "/images/SpartanAndPudgey_backdrop.jpg",
       "notes": " Come for the Reactions, Stay for the banter!",
       "links": [
