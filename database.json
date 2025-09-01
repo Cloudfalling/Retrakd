@@ -33,10 +33,22 @@
       "thumbnail": "/images/SpartanAndPudgey_thumb.jpg",
       "header": "/images/SpartanAndPudgey_header.jpg",
       "backdrop": "/images/SpartanAndPudgey_backdrop.jpg",
-      "notes": " Come for the Reactions, Stay for the banter!",
+      "notes": "Come for the Reactions, Stay for the banter!",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@SpartanAndPudgey" },
         { "type": "patreon", "url": "https://www.patreon.com/SpartanAndPudgey" }
+      ]
+    },
+    {
+      "id": "NikkiAndSteven",
+      "name": "Nikki & Steven",
+      "thumbnail": "/images/NikkiAndSteven_thumb.jpg",
+      "header": "/images/NikkiAndSteven_header.jpg",
+      "backdrop": "/images/NikkiAndSteven_backdrop.jpg",
+      "notes": " What is up Stikker Fam? Welcome to the channel!! We are Nikki & Steven, a married couple who loves reacting to some of your favorite TV shows and movies.",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@NikkiStevenReact" },
+        { "type": "patreon", "url": "https://www.patreon.com/NikkiStevenReact" }
       ]
     }
   ]
