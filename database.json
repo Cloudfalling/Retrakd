@@ -4,10 +4,10 @@
   },
   "reactors": [
     {
-      "id": "Cinebinge",
+      "id": "CineBinge",
       "name": "CineBinge",
       "thumbnail": "/images/CineBinge_thumb.jpg",
-      "header": "/images/Cinebinge_header.jpg",
+      "header": "/images/CineBinge_header.jpg",
       "backdrop": "/images/CineBinge_backdrop.jpg",
       "notes": "Hey everybody! Welcome to CineBinge!",
       "links": [
