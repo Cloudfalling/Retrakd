@@ -45,11 +45,136 @@
       "thumbnail": "/images/NikkiAndSteven_thumb.jpg",
       "header": "/images/NikkiAndSteven_header.jpg",
       "backdrop": "/images/NikkiAndSteven_backdrop.jpg",
-      "notes": " What is up Stikker Fam? Welcome to the channel!! We are Nikki & Steven, a married couple who loves reacting to some of your favorite TV shows and movies.",
+      "notes": "What is up Stikker Fam? Welcome to the channel!! We are Nikki & Steven, a married couple who loves reacting to some of your favorite TV shows and movies.",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@NikkiStevenReact" },
         { "type": "patreon", "url": "https://www.patreon.com/NikkiStevenReact" }
       ]
-    }
+    },
+    {
+      "id": "JustTrustAsh",
+      "name": "Just Trust Ash",
+      "thumbnail": "/images/JustTrustAsh_thumb.jpg",
+      "alt_thumbnails": [],
+      "header": "/images/JustTrustAsh_header.jpg",
+      "headers": [],
+      "backdrop": "/images/JustTrustAsh_backdrop.jpg",
+      "backdrops": [
+        "/images/alt_JustTrustAsh_backdrop.jpg"
+      ],
+      "notes": "YES MATE! I'm ASH, And I'm Literally here to make you forget about the troubles of day to day life and React and Review For the First time to our favourite movies and Tv shows. On this Channel we Fly kick, We scream, we take our shirts off and More importantly we Respect these Filmmakers works by honouring them Properly. I want To create a Community where we can Geek out on what we love and passionate about the most...I love you and Hope you enjoy this Channel!!",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@JustTrustAsh" },
+        { "type": "patreon", "url": "https://www.patreon.com/JustTrustAsh" },
+        { "type": "instagram", "url": "instagram.com/ashkanjavdani" }
+
+      ]
+    },
+    {
+      "id": "DontTrustHannah",
+      "name": "Don't Trust Hannah",
+      "thumbnail": "/images/DontTrustHannah_thumb.jpg",
+      "alt_thumbnails": [],
+      "header": "/images/DontTrustHannah_header.jpg",
+      "headers": [],
+      "backdrop": "/images/DontTrustHannah_backdrop.jpg",
+      "backdrops": [
+        "/images/alt_DontTrustHannah_backdrop.jpg"
+      ],
+      "notes": "",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@DontTrustHannah" },
+        { "type": "patreon", "url": "https://www.patreon.com/DontTrustHannah" }
+      ]
+    },
+    {
+      "id": "Vkunia",
+      "name": "Vkunia",
+      "thumbnail": "/images/Vkunia_thumb.jpg",
+      "alt_thumbnails": [
+        "/images/alt_Vkunia_thumb.jpg"
+      ],
+      "header": "/images/Vkunia_header.jpg",
+      "headers": [],
+      "backdrop": "/images/Vkunia_backdrop.jpg",
+      "backdrops": [
+        "/images/alt_Vkunia_backdrop.jpg"
+      ],
+      "notes": "Hi! :) I watch stuff and tell you my bad opinions on them. Sometimes I cry when I'm telling you guys the opinions :(",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@Vkunia" },
+        { "type": "patreon", "url": "https://www.patreon.com/Vkunia" }
+      ]
+    },
+    {
+      "id": "LauraReactions",
+      "name": "Laura Reactions",
+      "thumbnail": "/images/LauraReactions_thumb.jpg",
+      "alt_thumbnails": [],
+      "header": "/images/LauraReactions_header.jpg",
+      "headers": [],
+      "backdrop": "/images/LauraReactions_backdrop.jpg",
+      "backdrops": [],
+      "notes": "I'm french and I watch a lot of series and animes, and I want to talk about it with other viewers",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@LauraReactions" },
+        { "type": "patreon", "url": "https://www.patreon.com/LauraReactions" },
+        { "type": "twitter", "url": "https://www.twitter.com/ReactionsLaura" },
+        { "type": "twitch", "url": "https://www.twitch.tv/laurareactions" },
+        { "type": "tiktok", "url": "https://www.tiktok.com/@laurareactions" },
+      ]
+    },
+    {
+      "id": "LMReactions",
+      "name": "LM Reactions",
+      "thumbnail": "/images/LMReactions_thumb.jpg",
+      "alt_thumbnails": [],
+      "header": "/images/LMReactions_header.jpg",
+      "headers": [],
+      "backdrop": "/images/LMReactions_backdrop.jpg",
+      "backdrops": [
+        "/images/alt_LMReactions_backdrop.jpg"
+      ],
+      "notes": "Hi, we are Milena and Lola, 25 year olds from Serbia just watching shows and letting you watch us break down because of them. Thanks so much for stopping by xx",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@LMReactions" },
+        { "type": "patreon", "url": "https://www.patreon.com/LMReactions" },
+        { "type": "twitter", "url": "https://www.twitter.com/LMreaction" },
+      ]
+    },
+    {
+      "id": "MaplenutsReact",
+      "name": "Maplenuts React",
+      "thumbnail": "/images/MaplenutsReact_thumb.jpg",
+      "alt_thumbnails": [],
+      "header": "/images/MaplenutsReact_header.jpg",
+      "headers": [],
+      "backdrop": "/images/MaplenutsReact_backdrop.jpg",
+      "backdrops": [],
+      "notes": "Hi Everyone, and welcome to the channel! We're Chandra & Jordan - just a couple of nutty Canadians who love watching and reacting to your favourite movies and TV.",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@MaplenutsReact" },
+        { "type": "patreon", "url": "https://www.patreon.com/MaplenutsReact" }
+
+      ]
+    },
+    {
+      "id": "ReactorName",
+      "name": "ReactorName",
+      "thumbnail": "/images/ReactorName_thumb.jpg",
+      "alt_thumbnails": [],
+      "header": "/images/ReactorName_header.jpg",
+      "headers": [],
+      "backdrop": "/images/ReactorName_backdrop.jpg",
+      "backdrops": [
+        "/images/alt_ReactorName_backdrop.jpg"
+      ],
+      "notes": "",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@ReactorName" },
+        { "type": "patreon", "url": "https://www.patreon.com/ReactorName" }
+
+      ]
+    },
   ]
 }
