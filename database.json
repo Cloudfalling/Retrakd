@@ -157,24 +157,6 @@
         { "type": "patreon", "url": "https://www.patreon.com/MaplenutsReact" }
 
       ]
-    },
-    {
-      "id": "ReactorName",
-      "name": "ReactorName",
-      "thumbnail": "/images/ReactorName_thumb.jpg",
-      "alt_thumbnails": [],
-      "header": "/images/ReactorName_header.jpg",
-      "headers": [],
-      "backdrop": "/images/ReactorName_backdrop.jpg",
-      "backdrops": [
-        "/images/alt_ReactorName_backdrop.jpg"
-      ],
-      "notes": "",
-      "links": [
-        { "type": "youtube", "url": "https://www.youtube.com/@ReactorName" },
-        { "type": "patreon", "url": "https://www.patreon.com/ReactorName" }
-
-      ]
-    },
+    }
   ]
 }
