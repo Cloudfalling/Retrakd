@@ -57,9 +57,9 @@
       "thumbnail": "/images/JustTrustAsh_thumb.jpg",
       "alt_thumbnails": [],
       "header": "/images/JustTrustAsh_header.jpg",
-      "headers": [],
+      "alt_headers": [],
       "backdrop": "/images/JustTrustAsh_backdrop.jpg",
-      "backdrops": [
+      "alt_backdrops": [
         "/images/alt_JustTrustAsh_backdrop.jpg"
       ],
       "notes": "YES MATE! I'm ASH, And I'm Literally here to make you forget about the troubles of day to day life and React and Review For the First time to our favourite movies and Tv shows. On this Channel we Fly kick, We scream, we take our shirts off and More importantly we Respect these Filmmakers works by honouring them Properly. I want To create a Community where we can Geek out on what we love and passionate about the most...I love you and Hope you enjoy this Channel!!",
@@ -76,9 +76,9 @@
       "thumbnail": "/images/DontTrustHannah_thumb.jpg",
       "alt_thumbnails": [],
       "header": "/images/DontTrustHannah_header.jpg",
-      "headers": [],
+      "alt_headers": [],
       "backdrop": "/images/DontTrustHannah_backdrop.jpg",
-      "backdrops": [
+      "alt_backdrops": [
         "/images/alt_DontTrustHannah_backdrop.jpg"
       ],
       "notes": "",
@@ -95,9 +95,9 @@
         "/images/alt_Vkunia_thumb.jpg"
       ],
       "header": "/images/Vkunia_header.jpg",
-      "headers": [],
+      "alt_headers": [],
       "backdrop": "/images/Vkunia_backdrop.jpg",
-      "backdrops": [
+      "alt_backdrops": [
         "/images/alt_Vkunia_backdrop.jpg"
       ],
       "notes": "Hi! :) I watch stuff and tell you my bad opinions on them. Sometimes I cry when I'm telling you guys the opinions :(",
@@ -112,9 +112,9 @@
       "thumbnail": "/images/LauraReactions_thumb.jpg",
       "alt_thumbnails": [],
       "header": "/images/LauraReactions_header.jpg",
-      "headers": [],
+      "alt_headers": [],
       "backdrop": "/images/LauraReactions_backdrop.jpg",
-      "backdrops": [],
+      "alt_backdrops": [],
       "notes": "I'm french and I watch a lot of series and animes, and I want to talk about it with other viewers",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@LauraReactions" },
@@ -130,9 +130,9 @@
       "thumbnail": "/images/LMReactions_thumb.jpg",
       "alt_thumbnails": [],
       "header": "/images/LMReactions_header.jpg",
-      "headers": [],
+      "alt_headers": [],
       "backdrop": "/images/LMReactions_backdrop.jpg",
-      "backdrops": [
+      "alt_backdrops": [
         "/images/alt_LMReactions_backdrop.jpg"
       ],
       "notes": "Hi, we are Milena and Lola, 25 year olds from Serbia just watching shows and letting you watch us break down because of them. Thanks so much for stopping by xx",
@@ -148,9 +148,9 @@
       "thumbnail": "/images/MaplenutsReact_thumb.jpg",
       "alt_thumbnails": [],
       "header": "/images/MaplenutsReact_header.jpg",
-      "headers": [],
+      "alt_headers": [],
       "backdrop": "/images/MaplenutsReact_backdrop.jpg",
-      "backdrops": [],
+      "alt_backdrops": [],
       "notes": "Hi Everyone, and welcome to the channel! We're Chandra & Jordan - just a couple of nutty Canadians who love watching and reacting to your favourite movies and TV.",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@MaplenutsReact" },
