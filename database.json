@@ -160,6 +160,22 @@
         { "type": "patreon", "url": "https://www.patreon.com/RegenerationNationTV" }
 
       ]
+    },
+    {
+      "id": "AddieCounts",
+      "name": "Addie Counts",
+      "thumbnail": "/images/AddieCounts_thumb.jpg",
+      "alt_thumbnails": ["/images/alt_AddieCounts_thumb.jpg"],
+      "header": "/images/AddieCounts_header.jpg",
+      "alt_headers": ["/images/alt_AddieCounts_header.jpg"],
+      "backdrop": "/images/AddieCounts_backdrop.jpg",
+      "notes": "Just a gal trying to catch up on all the movies I've missed in life!",
+      "links": [
+        { "type": "youtube", "url": "https://www.youtube.com/@AddieCounts" },
+        { "type": "patreon", "url": "https://www.patreon.com/AddieCounts" },
+        { "type": "instagram", "url": "https://www.instagram.com/addie_counts" },
+        { "type": "letterboxd", "url": "https://www.letterboxd.com/addiecounts/films" }
+      ]
     }
   ]
 }
