@@ -18,10 +18,11 @@
     {
       "id": "PopcornInBed",
       "name": "Popcorn In Bed",
+      "abbreviation": "PiB",
       "thumbnail": "/images/PopcornInBed_thumb.jpg",
       "header": "/images/PopcornInBed_header.jpg",
       "backdrop": "/images/PopcornInBed_backdrop.jpg",
-      "notes": "Hey friends! Welcome to my cannel where I watch and react to tons of movies and shows that I've never seen.",
+      "notes": "Hey friends! Welcome to my channel where I watch and react to tons of movies and shows that I've never seen.",
       "links": [
         { "type": "youtube", "url": "https://www.youtube.com/@PopcornInBed" },
         { "type": "patreon", "url": "https://www.patreon.com/PopcornInBed" }
@@ -30,6 +31,7 @@
     {
       "id": "SpartanAndPudgey",
       "name": "Spartan & Pudgey",
+      "name": "Spar&Pud",
       "thumbnail": "/images/SpartanAndPudgey_thumb.jpg",
       "header": "/images/SpartanAndPudgey_header.jpg",
       "backdrop": "/images/SpartanAndPudgey_backdrop.jpg",
@@ -42,6 +44,7 @@
     {
       "id": "NikkiAndSteven",
       "name": "Nikki & Steven",
+      "abbreviation": "Nik&Ste",
       "thumbnail": "/images/NikkiAndSteven_thumb.jpg",
       "header": "/images/NikkiAndSteven_header.jpg",
       "backdrop": "/images/NikkiAndSteven_backdrop.jpg",
@@ -54,6 +57,7 @@
     {
       "id": "JustTrustAsh",
       "name": "Just Trust Ash",
+      "abbreviation": "JTAsh",
       "thumbnail": "/images/JustTrustAsh_thumb.jpg",
       "header": "/images/JustTrustAsh_header.jpg",
       "backdrop": "/images/JustTrustAsh_backdrop.jpg",
@@ -71,6 +75,7 @@
     {
       "id": "DontTrustHannah",
       "name": "Don't Trust Hannah",
+      "abbreviation": "DTHannah",
       "thumbnail": "/images/DontTrustHannah_thumb.jpg",
       "header": "/images/DontTrustHannah_header.jpg",
       "backdrop": "/images/DontTrustHannah_backdrop.jpg",
@@ -104,6 +109,7 @@
     {
       "id": "LauraReactions",
       "name": "Laura Reactions",
+      "abbreviation": "LauraReact",
       "thumbnail": "/images/LauraReactions_thumb.jpg",
       "header": "/images/LauraReactions_header.jpg",
       "backdrop": "/images/LauraReactions_backdrop.jpg",
@@ -119,6 +125,7 @@
     {
       "id": "LMReactions",
       "name": "LM Reactions",
+      "abbreviation": "LMReact",
       "thumbnail": "/images/LMReactions_thumb.jpg",
       "header": "/images/LMReactions_header.jpg",
       "backdrop": "/images/LMReactions_backdrop.jpg",
@@ -135,6 +142,7 @@
     {
       "id": "MaplenutsReact",
       "name": "Maplenuts React",
+      "abbreviation": "Maplenuts",
       "thumbnail": "/images/MaplenutsReact_thumb.jpg",
       "header": "/images/MaplenutsReact_header.jpg",
       "backdrop": "/images/MaplenutsReact_backdrop.jpg",
@@ -148,6 +156,7 @@
     {
       "id": "RegenerationNationTV",
       "name": "RegenerationNationTV",
+      "abbreviation": "RNTV",
       "thumbnail": "/images/RegenerationNationTV_thumb.jpg",
       "header": "/images/RegenerationNationTV_header.jpg",
       "alt_headers": [
@@ -164,6 +173,7 @@
     {
       "id": "AddieCounts",
       "name": "Addie Counts",
+      "abbreviation": "AddieC",
       "thumbnail": "/images/AddieCounts_thumb.jpg",
       "alt_thumbnails": ["/images/alt_AddieCounts_thumb.jpg"],
       "header": "/images/AddieCounts_header.jpg",
